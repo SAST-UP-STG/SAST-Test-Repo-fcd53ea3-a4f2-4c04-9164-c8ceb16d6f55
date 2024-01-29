@@ -40,4 +40,6 @@ public class SqlInjectionLesson6b extends AssignmentEndpoint {
     }
     return (password);
   }
+
+  private String tmp = "1";
 }
